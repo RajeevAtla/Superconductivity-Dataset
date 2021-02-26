@@ -1,3 +1,3 @@
 # Superconductivity-Dataset
 
-Data for project
+Dataset for SuperconGAN
